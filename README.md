@@ -30,3 +30,4 @@ Module 1: Pre-processing the dataset
 
 Module 2: Run SQL queries 
 
+Dataset used: iot_telemetry_data.csv
